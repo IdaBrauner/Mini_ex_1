@@ -12,5 +12,4 @@ As I explored more of the references and played around with it, I definitely lea
 
 To me, coding seems similar to text, in the way that even though it is just som numbers and letters you type, they will create a meaning when put together. If you're writing, let's say a paper, and you've made many spelling mistakes and errors in you sentences, it will be hard to understand or maybe even impossible. The same with coding. If you haven't typed the input correct, it will either create something unexpected or nothing at all. However, in writing text, people can understand the same thing in different ways, whereas in coding, it is either written right or wrong. 
 
-What might be the potential and possibility of coding practice?
 
